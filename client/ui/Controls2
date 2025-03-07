@@ -11,9 +11,9 @@ TextArea {
     leftPadding: 16
 
     color: "#D7D8DB"
-    selectionColor:  "#412102"
-    selectedTextColor: "#D7D8DB"
-    placeholderTextColor: "#878B91"
+    selectionColor:  "#6382e0"
+    selectedTextColor: "#5e7cd7"
+    placeholderTextColor: "#446291"
 
     font.pixelSize: 16
     font.weight: Font.Medium
